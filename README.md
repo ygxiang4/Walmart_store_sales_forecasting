@@ -7,10 +7,10 @@ The motivation of this project is to apply data science and machine learning ski
 1. Clone or download this repository.
 2. Install python3 and Jupyter Notebook.
 3. Install required python packages.
-4. Run walmart_sales_forecast.ipynb to output.csv file, which will be used for competition submission.
+4. Run walmart_sales_forecast.ipynb to generate output.csv file, which will be used for competition submission.
 
 ### Acknowledgements
-I would like to thank Walmart and Kaggle for the data.
+I would like to thank Walmart and Kaggle for the Walmart_store_sales_forecasting data.
 
 
   
